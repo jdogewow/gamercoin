@@ -40,7 +40,7 @@ Esse produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
         <source>These are your Bitcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são os seus endereços Bitcoin para receber pagamentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
+        <translation>Estes são os seus endereços Bitcoin para receber paGMRentos. Você pode querer enviar um endereço diferente para cada remetente, para acompanhar quem está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="36"/>
@@ -333,7 +333,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="204"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Mostrar a lista de endereços para receber pagamentos</translation>
+        <translation>Mostrar a lista de endereços para receber paGMRentos</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="209"/>
@@ -1069,7 +1069,7 @@ Endereço: %4</translation>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="55"/>
         <source>Request Payment</source>
-        <translation>Requisitar Pagamento</translation>
+        <translation>Requisitar PaGMRento</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="70"/>

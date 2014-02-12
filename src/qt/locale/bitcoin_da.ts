@@ -195,7 +195,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="54"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Indtast den gamle og nye adgangskode til tegnebogen.</translation>
+        <translation>Indtast den GMRle og nye adgangskode til tegnebogen.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="100"/>

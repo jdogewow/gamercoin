@@ -201,7 +201,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location filename="../askpassphrasedialog.cpp" line="54"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Ange plånbokens gamla och nya lösenord.</translation>
+        <translation>Ange plånbokens GMRla och nya lösenord.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="100"/>

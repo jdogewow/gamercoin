@@ -40,7 +40,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
         <source>These are your Bitcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Questi sono i tuoi indirizzi Bitcoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
+        <translation>Questi sono i tuoi indirizzi Bitcoin per ricevere paGMRenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="36"/>
@@ -334,7 +334,7 @@ Si è sicuri di voler cifrare il portamonete?</translation>
     <message>
         <location filename="../bitcoingui.cpp" line="204"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Mostra la lista di indirizzi su cui ricevere pagamenti</translation>
+        <translation>Mostra la lista di indirizzi su cui ricevere paGMRenti</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="209"/>
@@ -1072,7 +1072,7 @@ Indirizzo: %4
     <message>
         <location filename="../forms/qrcodedialog.ui" line="55"/>
         <source>Request Payment</source>
-        <translation>Richiedi pagamento</translation>
+        <translation>Richiedi paGMRento</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="70"/>
@@ -1387,7 +1387,7 @@ Indirizzo: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="93"/>
         <source>The address to send the payment to  (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>L&apos;indirizzo del beneficiario cui inviare il pagamento (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>L&apos;indirizzo del beneficiario cui inviare il paGMRento (ad esempio 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="103"/>
@@ -1654,7 +1654,7 @@ Indirizzo: %4
     <message>
         <location filename="../transactiontablemodel.cpp" line="360"/>
         <source>Payment to yourself</source>
-        <translation>Pagamento a te stesso</translation>
+        <translation>PaGMRento a te stesso</translation>
     </message>
     <message>
         <location filename="../transactiontablemodel.cpp" line="362"/>
